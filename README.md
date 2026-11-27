@@ -1,6 +1,6 @@
 # Telegram Restaurant Order Bot
 
-A complete ordering flow inside Telegram: browse a menu by category, add items, write custom requests ("no onion, extra sauce"), review the cart, and confirm. The owner gets every order instantly. Built by [Vivian Studio](https://github.com/vivianstudioai).
+A complete ordering flow inside Telegram: browse a menu by category, add items, write custom requests ("no onion, extra sauce"), review the cart, and confirm. The owner gets every order instantly. Built by Mohamed Salah.
 
 This is the bot from our demo video - a real, runnable version you can deploy for any restaurant, cafe, or food business.
 
