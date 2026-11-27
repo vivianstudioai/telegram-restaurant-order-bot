@@ -1,6 +1,6 @@
 """Telegram restaurant order bot - menu, cart, custom requests, order confirmation.
 
-Vivian Studio - https://github.com/vivianstudioai
+Mohamed Salah
 """
 import json
 import logging
