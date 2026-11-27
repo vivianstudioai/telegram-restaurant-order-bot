@@ -1,0 +1,29 @@
+{
+  "currency": "EGP",
+  "welcome": "Welcome to Cairo Bites! Browse the menu and tap to build your order:",
+  "categories": [
+    {
+      "name": "Grills",
+      "items": [
+        {"name": "Mixed Grill Platter", "price": 320},
+        {"name": "Shish Tawook", "price": 210},
+        {"name": "Kofta Plate", "price": 195}
+      ]
+    },
+    {
+      "name": "Seafood",
+      "items": [
+        {"name": "Grilled Sea Bass", "price": 380},
+        {"name": "Shrimp Pasta", "price": 260}
+      ]
+    },
+    {
+      "name": "Drinks & Desserts",
+      "items": [
+        {"name": "Lemon Mint", "price": 30},
+        {"name": "Om Ali", "price": 55},
+        {"name": "Kunafa", "price": 65}
+      ]
+    }
+  ]
+}
